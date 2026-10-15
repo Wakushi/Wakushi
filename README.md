@@ -1,5 +1,5 @@
 # 💫 About Me:
-Solving functional needs. <br>Passionate for crafting accessible, polished and secure experiences. <br>Creating tailor-made web applications to help people increase their productivity and profitability.<br><br>Web developer at Sequodia, building on-chain on my spare time.<br><br>Why the web ?<br><br>Building on the web is art.<br>We start with a blank canvas, finding the correct path to paint the solution that solves problems for hundreds, <br>thousands, or even millions of people, using the tools and techniques we have acquired over the years.<br>This creativity and freedom found in this ocean of possibilities serve as my daily source of happiness and motivation.
+Solving functional needs. <br>Passionate for crafting accessible, polished and secure experiences. <br>Creating tailor-made web applications to help people increase their productivity and profitability.<br><br>Fullstack DeFi dev, hackathon runner on my spare time.<br><br>Why the web ?<br><br>Building on the web is art.<br>We start with a blank canvas, finding the correct path to paint the solution that solves problems for hundreds, <br>thousands, or even millions of people, using the tools and techniques we have acquired over the years.<br>This creativity and freedom found in this ocean of possibilities serve as my daily source of happiness and motivation.
 
 
 ## 🌐 Socials:
